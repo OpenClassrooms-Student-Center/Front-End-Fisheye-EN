@@ -11,11 +11,11 @@
                 "portrait": "account.png"
             },
             {
-                "name": "Autre data test",
+                "name": "Other test data",
                 "id": 2,
                 "city": "Londres",
                 "country": "UK",
-                "tagline": "Ceci est ma data test 2",
+                "tagline": "This is my other test data",
                 "price": 500,
                 "portrait": "account.png"
             },
